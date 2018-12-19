@@ -1,0 +1,10 @@
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\bin\Debug\Tsundupalli_Assign5.exe.config
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\bin\Debug\Tsundupalli_Assign5.exe
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\bin\Debug\Tsundupalli_Assign5.pdb
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\obj\Debug\Tsundupalli_Assign5.csprojAssemblyReference.cache
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\obj\Debug\Tsundupalli_Assign5.Form1.resources
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\obj\Debug\Tsundupalli_Assign5.Properties.Resources.resources
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\obj\Debug\Tsundupalli_Assign5.csproj.GenerateResource.cache
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\obj\Debug\Tsundupalli_Assign5.csproj.CoreCompileInputs.cache
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\obj\Debug\Tsundupalli_Assign5.exe
+C:\Users\tsund\source\repos\Tsundupalli_Assign5\Tsundupalli_Assign5\obj\Debug\Tsundupalli_Assign5.pdb

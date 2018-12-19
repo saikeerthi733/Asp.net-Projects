@@ -1,0 +1,9 @@
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\obj\Debug\Tsundupalli_assign4.csprojResolveAssemblyReference.cache
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\obj\Debug\Tsundupalli_assign4.Properties.Resources.resources
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\obj\Debug\Tsundupalli_assign4.csproj.GenerateResource.Cache
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\bin\Debug\Tsundupalli_assign4.exe.config
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\bin\Debug\Tsundupalli_assign4.exe
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\bin\Debug\Tsundupalli_assign4.pdb
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\obj\Debug\Tsundupalli_assign4.exe
+c:\users\vsangaraju\documents\visual studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\obj\Debug\Tsundupalli_assign4.pdb
+C:\Users\vsangaraju\Documents\Visual Studio 2017\Projects\Tsundupalli_assign4\Tsundupalli_assign4\obj\Debug\Tsundupalli_Assign4.Form1.resources

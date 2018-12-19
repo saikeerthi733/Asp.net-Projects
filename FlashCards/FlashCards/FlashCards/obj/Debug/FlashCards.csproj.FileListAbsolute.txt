@@ -1,0 +1,13 @@
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\bin\Debug\FlashCards.exe.config
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\bin\Debug\FlashCards.exe
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\bin\Debug\FlashCards.pdb
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\obj\Debug\FlashCards.csprojAssemblyReference.cache
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\obj\Debug\FlashCards.Form1.resources
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\obj\Debug\FlashCards.Properties.Resources.resources
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\obj\Debug\FlashCards.csproj.GenerateResource.cache
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\obj\Debug\FlashCards.csproj.CoreCompileInputs.cache
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\obj\Debug\FlashCards.exe
+D:\Z_FA_18\CodeFromClass\FlashCards\FlashCards\obj\Debug\FlashCards.pdb
+C:\Users\tsund\Desktop\dotnet\FlashCards\FlashCards\FlashCards\obj\Debug\FlashCards.csprojAssemblyReference.cache
+C:\Users\tsund\Desktop\dotnet\FlashCards\FlashCards\FlashCards\obj\Debug\FlashCards.exe
+C:\Users\tsund\Desktop\dotnet\FlashCards\FlashCards\FlashCards\obj\Debug\FlashCards.pdb

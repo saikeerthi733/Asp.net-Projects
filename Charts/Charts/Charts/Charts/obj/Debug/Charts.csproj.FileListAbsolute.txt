@@ -1,0 +1,9 @@
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\obj\Debug\Charts.csprojAssemblyReference.cache
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\obj\Debug\Charts.Properties.Resources.resources
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\obj\Debug\Charts.csproj.GenerateResource.cache
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\obj\Debug\Charts.csproj.CoreCompileInputs.cache
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\bin\Debug\Charts.exe.config
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\bin\Debug\Charts.exe
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\bin\Debug\Charts.pdb
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\obj\Debug\Charts.exe
+C:\Users\tsund\Desktop\dotnet\Charts\Charts\Charts\Charts\obj\Debug\Charts.pdb

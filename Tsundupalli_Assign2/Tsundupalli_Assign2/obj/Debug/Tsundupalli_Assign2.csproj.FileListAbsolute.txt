@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\obj\Debug\Tsundupalli_Assign2.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\obj\Debug\Tsundupalli_Assign2.Properties.Resources.resources
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\obj\Debug\Tsundupalli_Assign2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\obj\Debug\Tsundupalli_Assign2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\bin\Debug\Tsundupalli_Assign2.exe.config
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\bin\Debug\Tsundupalli_Assign2.exe
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\bin\Debug\Tsundupalli_Assign2.pdb
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\obj\Debug\Tsundupalli_Assign2.exe
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\obj\Debug\Tsundupalli_Assign2.pdb
+C:\Users\DELL\source\repos\Tsundupalli_Assign2\Tsundupalli_Assign2\obj\Debug\Tsundupalli_Assign2.Form1.resources

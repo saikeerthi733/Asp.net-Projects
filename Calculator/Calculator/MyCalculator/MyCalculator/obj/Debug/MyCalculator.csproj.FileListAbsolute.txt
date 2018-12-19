@@ -1,0 +1,10 @@
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe.config
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.exe
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\bin\Debug\MyCalculator.pdb
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Form1.resources
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.Properties.Resources.resources
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.GenerateResource.cache
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.csproj.CoreCompileInputs.cache
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.exe
+H:\Visual Studio 2017\MyProjects\CodeFromClass\Calculator\MyCalculator\MyCalculator\obj\Debug\MyCalculator.pdb
